@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 - **Name:** Pavithra E K 
 - **Institution/Company:** Rajiv Gandhi Institute of Technology, Kottayam 
-- **GitHub:** 
+- **GitHub:** PavithraEK404()
 - **Programming Language Used:** Python joy
 
 ## 🎨 My Pookalam
